@@ -1,0 +1,22 @@
+1) Sistemas embarcados são sistemas microprocessados no qual o computador é completamente dedicado ao dispositivo ou sistema que ele controla,
+ou seja, sistemas embarcados realizam funções ja definidas/programadas.
+
+2) Sistemas microprocessados sao sistemas nos quais sao controlados por uma logica combinacional com o auxilio de circuitos integrados.
+
+3) Aplicações para industrias automotivas:
+    - Controle de portas, vidros eletricos, assentos e luzes
+    - Acionamento de freios
+    - Controle de transmissão e também de motores
+  
+  Aplicações para eletrodomésticos:
+    - Utilizado em lava-roupas, cafeteiras, computadores pessoais, aparelhos de som, escovas de dentes elétricas, etc.
+  
+  Aplicações para automação industrial:
+    - Controle de esteiras industriais e também controle de qualidade e quantidade.
+    
+4)
+
+5) Os principais atrativos da placa são os seguintes:
+    - Como o arduíno, é um microcontrolador no qual a linguagem de programação é mais facil e acessivel para executar projetos de pequenos e
+    ate mesmo medios portes.
+    - Além disso, podemos citar tambem seu preço ser baixo com relação a outros microcontroladores que possuem caracteristicas semelhantes.
