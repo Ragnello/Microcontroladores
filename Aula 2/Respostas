@@ -1,4 +1,7 @@
-1) 
+1) Barramento de dados são os caminhos por onde ocorrem a troca de informações, a troca de dados no computador, sendo eles enviados ou
+recebidos. Barramento de endereço são os locais em que essas trocas ocorrem, ou seja, tanto o local de origem do dado quanto o local de
+chegada do dado após o processo.
+
 2) A memória RAM é uma memória de rapido e aleatório acesso. É uma memória bastante dinâmica e volátil, na qual foi feita para armazenar
 temporariamente informações. A memória ROM é uma memória mais lenta e não-volátil, na qual armazena informações mais importantes que não
 podem ser perdidas.
@@ -6,7 +9,12 @@ podem ser perdidas.
 3)
   a) RAM, pois é uma informação que, depois de utilizada no programa, não precisa ser guardada.
   b) ROM, pois no caso de precisar utilizar o mesmo programa várias vezes, o programador não irá precisar escrever o programa novamente.
-4)
+
+4) A diferença entre a arquitetura de Harvard e de Von Neumann é que na arquitetura de Von Neumann utiliza o mesmo espaço de memória para
+armazenamento das instruções do microprocessador e o armazenamento dos dados, já na arquitetura de Harvard são usados espaços diferentes
+para o armazenamento das instruções e dos dados. A arquitetura de Harvard é melhor quando se trata de velocidade de processamento, pois
+pode acessar dois espaços de memória simultaneamente.
+
 5)
   a)
   b)
